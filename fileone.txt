@@ -3,3 +3,7 @@ This is the file I commited first.
 
 
 Time for second change.
+
+
+
+To persist the changes without saving data in staging area
