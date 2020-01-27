@@ -22,3 +22,11 @@ using fetch and merge
 
 
 git stash is using here
+
+
+
+compli cated stashing will start here
+
+
+Lets  be ready for going to th ehell
+
