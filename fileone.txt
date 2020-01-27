@@ -1,3 +1,5 @@
+
+
 This is the file I commited first.
 
 
@@ -21,6 +23,7 @@ using fetch and merge
 
 
 
+
 git stash is using here
 
 
@@ -29,4 +32,19 @@ compli cated stashing will start here
 
 
 Lets  be ready for going to th ehell
+
+now working on stashing
+
+
+cxfcvgjuhijvgxz
+ffcgvcvjnswaerrrtyyi
+dssrcdtfyugyugygfg
+
+
+
+
+
+
+I have no idea what is going on here?
+everything became a mess
 
