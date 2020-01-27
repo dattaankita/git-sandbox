@@ -7,6 +7,9 @@ we are going to fix the bugs
 
 
 added to bug-fix branch.
-=======
+
 working on a feature and try to add that to newfeature branch.
->>>>>>> newfeature
+
+
+This file will be stashed and popped from here
+
