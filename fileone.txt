@@ -74,3 +74,8 @@ function mul(int a, int b){
 function div(int a, int b){
    return a/b;
    }
+
+function mod(int a, int b){
+   return a%b;
+   }
+
