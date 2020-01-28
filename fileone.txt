@@ -52,3 +52,8 @@ everything became a mess
 
 How you became my world I dont know
 sometimes I feel like to escape from everything but I cant because youy are here
+
+
+function sub(int a, int b){
+    return a-b;
+    }
